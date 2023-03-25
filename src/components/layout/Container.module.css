@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    background-color: darkcyan;
+}
+
+.min_height{
+    min-height: 550px;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.column{
+    flex-direction: column;
+    
+}
