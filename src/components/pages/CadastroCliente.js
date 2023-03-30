@@ -1,12 +1,12 @@
-import syles from './CadastroCliente.module.css'
-import Input from '../form/Input'
+import styles from './CadastroCliente.module.css'
 import Form from '../EstructForm/Form'
 
 function CadastroCliente (){
     return(
-        <div>
+        <div >
             <h1>Cadastrar Cliente</h1>
-            <Form />
+            <Form btnText="Adicionar" />
+
         </div>
     )
 }

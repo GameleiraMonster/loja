@@ -4,12 +4,12 @@
     justify-content: center;
     margin: 0 auto;
     flex-wrap: wrap;
-    padding-top: 20px;
+    padding-top: 55px;
     
 }
 
 .min_height{
-    min-height: 550px;
+    min-height: 600px;
 }
 
 .start{
